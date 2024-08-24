@@ -1,0 +1,7 @@
+Product_ID,Product_Name,Category,Stock_Level,Max_Capacity,Date_Updated
+P001,Paracetamol,Medicine,8,500,2024-07-15
+P002,Aspirin,Medicine,48,200,2024-07-15
+P003,Bandages,Medical Supplies,98,300,2024-07-15
+P004,Surgical Gloves,Medical Supplies,198,500,2024-07-15
+P005,Disinfectant Solution,Medical Supplies,148,400,2024-07-15
+P006,Scalpels,Medical Supplies,28,100,2024-07-15

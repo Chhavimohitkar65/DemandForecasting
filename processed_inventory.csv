@@ -1,0 +1,181 @@
+Date,Item ID,Item Name,Category,Units Received,Units Used,Units in Stock,Supplier
+2020-01-01,101,Surgical Masks,Medical Supply,500,200,300,Supplier A
+2020-01-01,102,Hand Sanitizer,Medical Supply,300,150,150,Supplier B
+2020-01-01,201,Paracetamol,Pharmaceutical,1000,800,200,Supplier C
+2020-01-01,202,Amoxicillin,Pharmaceutical,800,600,200,Supplier D
+2020-01-01,203,Insulin,Pharmaceutical,400,300,100,Supplier E
+2020-01-01,301,X-ray Film,Equipment,50,20,30,Supplier F
+2020-02-01,101,Surgical Masks,Medical Supply,600,300,300,Supplier A
+2020-02-01,102,Hand Sanitizer,Medical Supply,400,200,200,Supplier B
+2020-02-01,201,Paracetamol,Pharmaceutical,1200,900,300,Supplier C
+2020-02-01,202,Amoxicillin,Pharmaceutical,900,700,200,Supplier D
+2020-02-01,203,Insulin,Pharmaceutical,450,350,100,Supplier E
+2020-02-01,301,X-ray Film,Equipment,70,30,40,Supplier F
+2020-03-01,101,Surgical Masks,Medical Supply,700,400,300,Supplier A
+2020-03-01,102,Hand Sanitizer,Medical Supply,500,250,250,Supplier B
+2020-03-01,201,Paracetamol,Pharmaceutical,1500,1000,500,Supplier C
+2020-03-01,202,Amoxicillin,Pharmaceutical,1000,800,200,Supplier D
+2020-03-01,203,Insulin,Pharmaceutical,500,400,100,Supplier E
+2020-03-01,301,X-ray Film,Equipment,100,40,60,Supplier F
+2020-04-01,101,Surgical Masks,Medical Supply,800,500,300,Supplier A
+2020-04-01,102,Hand Sanitizer,Medical Supply,600,300,300,Supplier B
+2020-04-01,201,Paracetamol,Pharmaceutical,1800,1200,600,Supplier C
+2020-04-01,202,Amoxicillin,Pharmaceutical,1100,900,200,Supplier D
+2020-04-01,203,Insulin,Pharmaceutical,550,450,100,Supplier E
+2020-04-01,301,X-ray Film,Equipment,120,50,70,Supplier F
+2020-05-01,101,Surgical Masks,Medical Supply,900,600,300,Supplier A
+2020-05-01,102,Hand Sanitizer,Medical Supply,700,350,350,Supplier B
+2020-05-01,201,Paracetamol,Pharmaceutical,2000,1300,700,Supplier C
+2020-05-01,202,Amoxicillin,Pharmaceutical,1200,1000,200,Supplier D
+2020-05-01,203,Insulin,Pharmaceutical,600,500,100,Supplier E
+2020-05-01,301,X-ray Film,Equipment,140,60,80,Supplier F
+2020-06-01,101,Surgical Masks,Medical Supply,1000,700,300,Supplier A
+2020-06-01,102,Hand Sanitizer,Medical Supply,800,400,400,Supplier B
+2020-06-01,201,Paracetamol,Pharmaceutical,2200,1500,700,Supplier C
+2020-06-01,202,Amoxicillin,Pharmaceutical,1300,1100,200,Supplier D
+2020-06-01,203,Insulin,Pharmaceutical,700,600,100,Supplier E
+2020-06-01,301,X-ray Film,Equipment,160,70,90,Supplier F
+2021-01-01,101,Surgical Masks,Medical Supply,500,200,300,Supplier A
+2021-01-01,102,Hand Sanitizer,Medical Supply,300,150,150,Supplier B
+2021-01-01,201,Paracetamol,Pharmaceutical,1000,800,200,Supplier C
+2021-01-01,202,Amoxicillin,Pharmaceutical,800,600,200,Supplier D
+2021-01-01,203,Insulin,Pharmaceutical,400,300,100,Supplier E
+2021-01-01,301,X-ray Film,Equipment,50,20,30,Supplier F
+2021-02-01,101,Surgical Masks,Medical Supply,600,300,300,Supplier A
+2021-02-01,102,Hand Sanitizer,Medical Supply,400,200,200,Supplier B
+2021-02-01,201,Paracetamol,Pharmaceutical,1200,900,300,Supplier C
+2021-02-01,202,Amoxicillin,Pharmaceutical,900,700,200,Supplier D
+2021-02-01,203,Insulin,Pharmaceutical,450,350,100,Supplier E
+2021-02-01,301,X-ray Film,Equipment,70,30,40,Supplier F
+2021-03-01,101,Surgical Masks,Medical Supply,700,400,300,Supplier A
+2021-03-01,102,Hand Sanitizer,Medical Supply,500,250,250,Supplier B
+2021-03-01,201,Paracetamol,Pharmaceutical,1500,1000,500,Supplier C
+2021-03-01,202,Amoxicillin,Pharmaceutical,1000,800,200,Supplier D
+2021-03-01,203,Insulin,Pharmaceutical,500,400,100,Supplier E
+2021-03-01,301,X-ray Film,Equipment,100,40,60,Supplier F
+2021-04-01,101,Surgical Masks,Medical Supply,800,500,300,Supplier A
+2021-04-01,102,Hand Sanitizer,Medical Supply,600,300,300,Supplier B
+2021-04-01,201,Paracetamol,Pharmaceutical,1800,1200,600,Supplier C
+2021-04-01,202,Amoxicillin,Pharmaceutical,1100,900,200,Supplier D
+2021-04-01,203,Insulin,Pharmaceutical,550,450,100,Supplier E
+2021-04-01,301,X-ray Film,Equipment,120,50,70,Supplier F
+2021-05-01,101,Surgical Masks,Medical Supply,900,600,300,Supplier A
+2021-05-01,102,Hand Sanitizer,Medical Supply,700,350,350,Supplier B
+2021-05-01,201,Paracetamol,Pharmaceutical,2000,1300,700,Supplier C
+2021-05-01,202,Amoxicillin,Pharmaceutical,1200,1000,200,Supplier D
+2021-05-01,203,Insulin,Pharmaceutical,600,500,100,Supplier E
+2021-05-01,301,X-ray Film,Equipment,140,60,80,Supplier F
+2021-06-01,101,Surgical Masks,Medical Supply,1000,700,300,Supplier A
+2021-06-01,102,Hand Sanitizer,Medical Supply,800,400,400,Supplier B
+2021-06-01,201,Paracetamol,Pharmaceutical,2200,1500,700,Supplier C
+2021-06-01,202,Amoxicillin,Pharmaceutical,1300,1100,200,Supplier D
+2021-06-01,203,Insulin,Pharmaceutical,700,600,100,Supplier E
+2021-06-01,301,X-ray Film,Equipment,160,70,90,Supplier F
+2022-01-01,101,Surgical Masks,Medical Supply,500,200,300,Supplier A
+2022-01-01,102,Hand Sanitizer,Medical Supply,300,150,150,Supplier B
+2022-01-01,201,Paracetamol,Pharmaceutical,1000,800,200,Supplier C
+2022-01-01,202,Amoxicillin,Pharmaceutical,800,600,200,Supplier D
+2022-01-01,203,Insulin,Pharmaceutical,400,300,100,Supplier E
+2022-01-01,301,X-ray Film,Equipment,50,20,30,Supplier F
+2022-02-01,101,Surgical Masks,Medical Supply,600,300,300,Supplier A
+2022-02-01,102,Hand Sanitizer,Medical Supply,400,200,200,Supplier B
+2022-02-01,201,Paracetamol,Pharmaceutical,1200,900,300,Supplier C
+2022-02-01,202,Amoxicillin,Pharmaceutical,900,700,200,Supplier D
+2022-02-01,203,Insulin,Pharmaceutical,450,350,100,Supplier E
+2022-02-01,301,X-ray Film,Equipment,70,30,40,Supplier F
+2022-03-01,101,Surgical Masks,Medical Supply,700,400,300,Supplier A
+2022-03-01,102,Hand Sanitizer,Medical Supply,500,250,250,Supplier B
+2022-03-01,201,Paracetamol,Pharmaceutical,1500,1000,500,Supplier C
+2022-03-01,202,Amoxicillin,Pharmaceutical,1000,800,200,Supplier D
+2022-03-01,203,Insulin,Pharmaceutical,500,400,100,Supplier E
+2022-03-01,301,X-ray Film,Equipment,100,40,60,Supplier F
+2022-04-01,101,Surgical Masks,Medical Supply,800,500,300,Supplier A
+2022-04-01,102,Hand Sanitizer,Medical Supply,600,300,300,Supplier B
+2022-04-01,201,Paracetamol,Pharmaceutical,1800,1200,600,Supplier C
+2022-04-01,202,Amoxicillin,Pharmaceutical,1100,900,200,Supplier D
+2022-04-01,203,Insulin,Pharmaceutical,550,450,100,Supplier E
+2022-04-01,301,X-ray Film,Equipment,120,50,70,Supplier F
+2022-05-01,101,Surgical Masks,Medical Supply,900,600,300,Supplier A
+2022-05-01,102,Hand Sanitizer,Medical Supply,700,350,350,Supplier B
+2022-05-01,201,Paracetamol,Pharmaceutical,2000,1300,700,Supplier C
+2022-05-01,202,Amoxicillin,Pharmaceutical,1200,1000,200,Supplier D
+2022-05-01,203,Insulin,Pharmaceutical,600,500,100,Supplier E
+2022-05-01,301,X-ray Film,Equipment,140,60,80,Supplier F
+2022-06-01,101,Surgical Masks,Medical Supply,1000,700,300,Supplier A
+2022-06-01,102,Hand Sanitizer,Medical Supply,800,400,400,Supplier B
+2022-06-01,201,Paracetamol,Pharmaceutical,2200,1500,700,Supplier C
+2022-06-01,202,Amoxicillin,Pharmaceutical,1300,1100,200,Supplier D
+2022-06-01,203,Insulin,Pharmaceutical,700,600,100,Supplier E
+2022-06-01,301,X-ray Film,Equipment,160,70,90,Supplier F
+2023-01-01,101,Surgical Masks,Medical Supply,500,200,300,Supplier A
+2023-01-01,102,Hand Sanitizer,Medical Supply,300,150,150,Supplier B
+2023-01-01,201,Paracetamol,Pharmaceutical,1000,800,200,Supplier C
+2023-01-01,202,Amoxicillin,Pharmaceutical,800,600,200,Supplier D
+2023-01-01,203,Insulin,Pharmaceutical,400,300,100,Supplier E
+2023-01-01,301,X-ray Film,Equipment,50,20,30,Supplier F
+2023-02-01,101,Surgical Masks,Medical Supply,600,300,300,Supplier A
+2023-02-01,102,Hand Sanitizer,Medical Supply,400,200,200,Supplier B
+2023-02-01,201,Paracetamol,Pharmaceutical,1200,900,300,Supplier C
+2023-02-01,202,Amoxicillin,Pharmaceutical,900,700,200,Supplier D
+2023-02-01,203,Insulin,Pharmaceutical,450,350,100,Supplier E
+2023-02-01,301,X-ray Film,Equipment,70,30,40,Supplier F
+2023-03-01,101,Surgical Masks,Medical Supply,700,400,300,Supplier A
+2023-03-01,102,Hand Sanitizer,Medical Supply,500,250,250,Supplier B
+2023-03-01,201,Paracetamol,Pharmaceutical,1500,1000,500,Supplier C
+2023-03-01,202,Amoxicillin,Pharmaceutical,1000,800,200,Supplier D
+2023-03-01,203,Insulin,Pharmaceutical,500,400,100,Supplier E
+2023-03-01,301,X-ray Film,Equipment,100,40,60,Supplier F
+2023-04-01,101,Surgical Masks,Medical Supply,800,500,300,Supplier A
+2023-04-01,102,Hand Sanitizer,Medical Supply,600,300,300,Supplier B
+2023-04-01,201,Paracetamol,Pharmaceutical,1800,1200,600,Supplier C
+2023-04-01,202,Amoxicillin,Pharmaceutical,1100,900,200,Supplier D
+2023-04-01,203,Insulin,Pharmaceutical,550,450,100,Supplier E
+2023-04-01,301,X-ray Film,Equipment,120,50,70,Supplier F
+2023-05-01,101,Surgical Masks,Medical Supply,900,600,300,Supplier A
+2023-05-01,102,Hand Sanitizer,Medical Supply,700,350,350,Supplier B
+2023-05-01,201,Paracetamol,Pharmaceutical,2000,1300,700,Supplier C
+2023-05-01,202,Amoxicillin,Pharmaceutical,1200,1000,200,Supplier D
+2023-05-01,203,Insulin,Pharmaceutical,600,500,100,Supplier E
+2023-05-01,301,X-ray Film,Equipment,140,60,80,Supplier F
+2023-06-01,101,Surgical Masks,Medical Supply,1000,700,300,Supplier A
+2023-06-01,102,Hand Sanitizer,Medical Supply,800,400,400,Supplier B
+2023-06-01,201,Paracetamol,Pharmaceutical,2200,1500,700,Supplier C
+2023-06-01,202,Amoxicillin,Pharmaceutical,1300,1100,200,Supplier D
+2023-06-01,203,Insulin,Pharmaceutical,700,600,100,Supplier E
+2023-06-01,301,X-ray Film,Equipment,160,70,90,Supplier F
+2024-01-01,101,Surgical Masks,Medical Supply,500,200,300,Supplier A
+2024-01-01,102,Hand Sanitizer,Medical Supply,300,150,150,Supplier B
+2024-01-01,201,Paracetamol,Pharmaceutical,1000,800,200,Supplier C
+2024-01-01,202,Amoxicillin,Pharmaceutical,800,600,200,Supplier D
+2024-01-01,203,Insulin,Pharmaceutical,400,300,100,Supplier E
+2024-01-01,301,X-ray Film,Equipment,50,20,30,Supplier F
+2024-02-01,101,Surgical Masks,Medical Supply,600,300,300,Supplier A
+2024-02-01,102,Hand Sanitizer,Medical Supply,400,200,200,Supplier B
+2024-02-01,201,Paracetamol,Pharmaceutical,1200,900,300,Supplier C
+2024-02-01,202,Amoxicillin,Pharmaceutical,900,700,200,Supplier D
+2024-02-01,203,Insulin,Pharmaceutical,450,350,100,Supplier E
+2024-02-01,301,X-ray Film,Equipment,70,30,40,Supplier F
+2024-03-01,101,Surgical Masks,Medical Supply,700,400,300,Supplier A
+2024-03-01,102,Hand Sanitizer,Medical Supply,500,250,250,Supplier B
+2024-03-01,201,Paracetamol,Pharmaceutical,1500,1000,500,Supplier C
+2024-03-01,202,Amoxicillin,Pharmaceutical,1000,800,200,Supplier D
+2024-03-01,203,Insulin,Pharmaceutical,500,400,100,Supplier E
+2024-03-01,301,X-ray Film,Equipment,100,40,60,Supplier F
+2024-04-01,101,Surgical Masks,Medical Supply,800,500,300,Supplier A
+2024-04-01,102,Hand Sanitizer,Medical Supply,600,300,300,Supplier B
+2024-04-01,201,Paracetamol,Pharmaceutical,1800,1200,600,Supplier C
+2024-04-01,202,Amoxicillin,Pharmaceutical,1100,900,200,Supplier D
+2024-04-01,203,Insulin,Pharmaceutical,550,450,100,Supplier E
+2024-04-01,301,X-ray Film,Equipment,120,50,70,Supplier F
+2024-05-01,101,Surgical Masks,Medical Supply,900,600,300,Supplier A
+2024-05-01,102,Hand Sanitizer,Medical Supply,700,350,350,Supplier B
+2024-05-01,201,Paracetamol,Pharmaceutical,2000,1300,700,Supplier C
+2024-05-01,202,Amoxicillin,Pharmaceutical,1200,1000,200,Supplier D
+2024-05-01,203,Insulin,Pharmaceutical,600,500,100,Supplier E
+2024-05-01,301,X-ray Film,Equipment,140,60,80,Supplier F
+2024-06-01,101,Surgical Masks,Medical Supply,1000,700,300,Supplier A
+2024-06-01,102,Hand Sanitizer,Medical Supply,800,400,400,Supplier B
+2024-06-01,201,Paracetamol,Pharmaceutical,2200,1500,700,Supplier C
+2024-06-01,202,Amoxicillin,Pharmaceutical,1300,1100,200,Supplier D
+2024-06-01,203,Insulin,Pharmaceutical,700,600,100,Supplier E
+2024-06-01,301,X-ray Film,Equipment,160,70,90,Supplier F

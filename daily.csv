@@ -1,0 +1,6 @@
+Product_ID,Product_Name,Category,Stock_Level,Max_Capacity,Date_Updated,Expiry_Date,Forecasted_Demand,Emergency_Stock_Level,Temperature_Requirement,Compliance_Status
+P001,Aspirin,Medication,100,200,2023-07-01,2024-01-01,120,50,Room Temperature,Compliant
+P002,Bandages,Medical Supplies,50,100,2023-07-01,2025-01-01,70,20,None,Compliant
+P003,IV Drip,Medical Equipment,30,50,2023-07-01,2024-06-01,40,10,Cool Storage,Compliant
+P004,Syringes,Medical Supplies,20,200,2023-07-01,2026-01-01,30,15,None,Compliant
+P005,Gauze Pads,Medical Supplies,0,500,2023-07-01,2027-01-01,60,25,None,Compliant
