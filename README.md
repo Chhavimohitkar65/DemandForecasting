@@ -65,6 +65,7 @@ Our solution employs **OpenAI's language models** and statistical techniques to 
 - **Hosting**: AWS, Google Cloud Platform
 
 ---
+![mohitkarchhavi_round1](https://github.com/user-attachments/assets/382a77fb-550c-48ae-bb02-d13fc4db025f)
 
 ## 🔧 **Technical Feasibility**
 - **MongoDB**: Scalable and flexible document-based data model that integrates seamlessly with advanced analytics tools like ARIMA and VAR models.
