@@ -1,5 +1,6 @@
 
-# 🏥 **Demand Forecasting for Healthcare Inventory** | Optimizing Healthcare Supply Chain
+# 🏥 **Demand Forecasting for Healthcare Inventory** 
+# Optimizing Healthcare Supply Chain
 https://github.com/user-attachments/assets/6c995437-2fce-4fbc-9e76-128b719e7891
 ## **The Problem We Are Solving**
 The demand for pharmaceuticals and medical supplies in healthcare institutions fluctuates unpredictably due to varying patient admissions and treatment requirements. This inconsistency causes:
