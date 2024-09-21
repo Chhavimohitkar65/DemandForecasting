@@ -1,7 +1,9 @@
 
-# 🏥📊 **Healthcare Inventory Demand Forecasting** | 🔄🚑 Streamlining the Supply Chain for ⚡️ Optimal Efficiency
+# 🏥📊 **Healthcare Inventory Demand Forecasting**  
 https://github.com/user-attachments/assets/6c995437-2fce-4fbc-9e76-128b719e7891
 ## **The Problem We Are Solving**
+🔄🚑 Streamlining the Supply Chain for ⚡️ Optimal Efficiency
+
 The demand for pharmaceuticals and medical supplies in healthcare institutions fluctuates unpredictably due to varying patient admissions and treatment requirements. This inconsistency causes:
 
 - 🚫 **Stockouts**: Delaying treatments and reducing the quality of patient care.
